@@ -17,7 +17,7 @@ def main():
 
     # Contexto del asistente
     context = {"role": "system",
-               "content": "Eres un asistente muy útil."}
+               "content": "Sos un asistente muy útil."}
     messages = [context]
 
     while True:
@@ -42,7 +42,7 @@ def main():
 
 
 def __prompt() -> str:
-    prompt = typer.prompt("\n¿Sobre qué quieres hablar? ")
+    prompt = typer.prompt("\n¿Sobre qué quéres hablar? ")
 
     if prompt == "exit":
         exit = typer.confirm("✋ ¿Estás seguro?")
