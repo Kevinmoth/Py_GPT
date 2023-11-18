@@ -6,3 +6,4 @@ utilizando las librerias de:
 - Typer: https://github.com/tiangolo/typer
 - 
 - Rich: https://github.com/Textualize/rich
+
