@@ -3,6 +3,7 @@ import typer
 from rich import print
 from rich.table import Table
 
+
 def main():
 
     openai.api_key = "TU_API_KEY creada en https://platform.openai.com"
