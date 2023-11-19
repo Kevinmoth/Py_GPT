@@ -7,3 +7,5 @@ utilizando las librerias de:
 - 
 - Rich: https://github.com/Textualize/rich
 
+
+
